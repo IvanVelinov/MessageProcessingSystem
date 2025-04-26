@@ -65,7 +65,7 @@ date (datetime)
 
 sha1 (varchar)
 
-CREATE DATABASE hash_db;
+CREATE DATABASE hornettestdb;
 
 USE hornettestdb;
 
