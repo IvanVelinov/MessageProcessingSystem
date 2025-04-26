@@ -1,0 +1,6 @@
+@HornetHomeworkWorker_HostAddress = http://localhost:5162
+
+GET {{HornetHomeworkWorker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
